@@ -1,0 +1,41 @@
+, rent types
+0,flat / apartment
+1,detached duplex
+2,terraced duplex
+3,semi detached duplex
+4,detached bungalow
+5,shop
+6,terraced bungalow
+
+,rent area
+0,Maryland
+1,Lekki
+2,Ikeja
+3,Ikoyi
+4,Victoria Island
+5,Oniru
+6,Ojo
+7,Ajah
+8,Gbagada
+9,Kosofe
+10,Lagos Mainland
+11,Abule
+12,Akoka
+13,Anthony Village
+14,Lawanson
+15,Surulere
+16,Ikorodu
+17,Alimosho
+18,Ogba
+19,Agege
+20,Yaba
+21,Ogudu
+22,Aguda
+23,Ojuelegba
+24,Iyana Ipaja
+25,Iwaya
+26,Ladipo
+27,Dolphin Estate
+
+,total number of beds, baths, toilets
+0, 7,7,8 
