@@ -37,5 +37,5 @@
 26,Ladipo
 27,Dolphin Estate
 
-,total number of beds, baths, toilets
+,maximum number of beds, baths, toilets
 0, 7,7,8 
